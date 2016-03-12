@@ -1,0 +1,13 @@
+{
+  "name": "NodejsConsoleApp1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "jgoday",
+    "email": ""
+  },
+  "dependencies": {
+    "axios": "^0.9.1"
+  }
+}
